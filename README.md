@@ -7,19 +7,22 @@
 
 <div align="left">
     <p align="right">
-      <img src="https://komarev.com/ghpvc/?username=vargasnaut&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views counter"/>
+        <img src="https://komarev.com/ghpvc/?username=vargasnaut&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views counter"/>
     </p>
-
-    <p align="right">
-      <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="350"/>
+    <p>
+        ### 💡 Mi enfoque y áreas de interés:
+        * 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **Bases de Datos**.
+        * 💻 Me interesa mucho explorar áreas como **Inteligencia Artificial**, **Desarrollo Backend** y **Ciberseguridad**.
+        * ⚡ Dato curioso: Me apasiona la **música**, la **tecnología** y aprender cosas nuevas cada día. 🚀
+    </p>  
+        <br>
+    <p>
+        ### 🎯 Estoy abierto a:
+        * 🤝 Cualquier tipo de **colaboración** en proyectos de código abierto.
+        * 💻 Proyectos de desarrollo de software o **investigación** en mis áreas de interés.
+        * 📧 Puedes contactarme en **nvargas20027@gmail.com**.
     </p>
-
-    - 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **Bases de Datos** para fortalecer mis habilidades técnicas.  
-    - 💻 Interesado en áreas como **Inteligencia Artificial**, **Desarrollo Backend** y **Ciberseguridad**.  
-    - 🎯 Mi objetivo es crecer como **Ingeniero de Sistemas especializado en desarrollo de software** y contribuir a proyectos **open source** que generen impacto real.  
-    - 📫 Puedes contactarme en **nvargas20027@gmail.com**.  
-    - ⚡ Dato curioso: Me apasionan la **música**, la **tecnología** y aprender cosas nuevas cada día. 🚀  
-
+    
 </div>
 
 ---
@@ -77,7 +80,7 @@
 ---
 
 <div align="center">
-    <h3>📊 GitHub Stats:</h3>
+    ### 📊 GitHub Stats:
     <p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="Racha de contribuciones" height="130" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="200" />
