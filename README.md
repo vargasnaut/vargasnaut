@@ -1,64 +1,54 @@
-<h1 align="center">Hi 👋, I'm Naut Vargas</h1>
-<h3 align="center">🎓 Estudiante de Ingeniería de Sistemas | Apasionado por la tecnología y el desarrollo de software</h3>
+<div align="center">
 
----
+# ¡Hola 👋, Soy Vargas Naut!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vargasnaut&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+### Un estudiante de **Ingeniería de Sistemas** del **Callao, Perú 🇵🇪**
 
-<p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="280"/>
-</p>
+</div>
 
----
-
-### 🧩 Sobre mí
-
-- 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **Bases de Datos** para fortalecer mis habilidades técnicas.  
-- 💻 Interesado en **Inteligencia Artificial**, **Desarrollo Backend** y **Ciberseguridad**.  
-- 🎯 Mi objetivo es crecer como **Ingeniero de Sistemas especializado en desarrollo de software** y contribuir a proyectos **open source** que generen impacto real.  
-- 📫 Puedes contactarme en **nvargas20027@gmail.com**  
-- ⚡ Dato curioso: Me apasionan la **música**, la **tecnología** y aprender cosas nuevas cada día. 🚀  
-
----
-
-### 🌐 Conecta conmigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/nautvargas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/naut_vargas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="mailto:nvargas20027@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40"/>
-  </a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vargasnaut&label=Visitas&color=0e75b6&style=flat-square" alt="Contador de visitas de GitHub" /> 
 </p>
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+## 💬 Conéctate conmigo:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vargasnaut" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Vargas Naut" height="30" width="40" /></a>
+<a href="https://x.com/vargasnaut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter Vargas Naut" height="30" width="40" /></a>
+<a href="https://vargasnaut.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg" alt="Portafolio Vargas Naut" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Top languages"/>
-</p>
+## 💡 Sobre mí y lo que hago:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vargasnaut&show_icons=true&theme=tokyonight&locale=es" alt="GitHub stats"/>
-</p>
+* 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **Bases de Datos**.  
+* 👯 Busco colaborar en proyectos relacionados con **Backend, Inteligencia Artificial o Seguridad Informática**.  
+* 💬 Pregúntame sobre **Git, Python, SQL o desarrollo de interfaces con Tkinter**.  
+* 📫 Contáctame en **nvargas20027@gmail.com**.  
+* ⚡ Dato curioso: Me encanta la música 🎵 y la tecnología 💻.  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="GitHub streak"/>
-</p>
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<div align="left">
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+</div>
+
+---
+
+<div align="center">
+    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vargasnaut&show_icons=true&theme=dark" alt="Estadísticas de GitHub de vargasnaut" /></p>
+
+</div>
