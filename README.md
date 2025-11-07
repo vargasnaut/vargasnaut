@@ -1,4 +1,4 @@
-align="center">Hi 👋, I'm Naut Vargas</h2>
+<h2 align="center">Hi 👋, I'm Naut Vargas</h2>
 <h3 align="center">🎓 Estudiante de Ingeniería de Sistemas | Apasionado por la tecnología y el desarrollo de software</h3>
 
 <p align="right"> 
@@ -25,7 +25,7 @@ align="center">Hi 👋, I'm Naut Vargas</h2>
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
   </a>
 </p>
----
+
 <h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
 <p align="left">
 
@@ -53,7 +53,7 @@ align="center">Hi 👋, I'm Naut Vargas</h2>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vmware.svg" alt="VMware" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anydesk.svg" alt="AnyDesk" width="40" height="40"/>
 </p>
----
+
 <h3>📊 Estadísticas de GitHub:</h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="Racha de contribuciones" height="130" />
