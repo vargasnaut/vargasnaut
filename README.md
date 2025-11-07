@@ -12,11 +12,12 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="250"/></p>
 
-- 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **Bases de Datos**.  
-- 💻 Interesado en áreas como **inteligencia artificial**, **backend**, y **seguridad informática**.  
-- 🎯 Mi objetivo: Convertirme en un **ingeniero de software profesional** y contribuir a proyectos open source.  
-- 📫 Contáctame en **nvargas20027@gmail.com**  
-- ⚡ Dato curioso: Me encanta la música 🎵 y la tecnología 💻  
+- 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **Bases de Datos** para fortalecer mis habilidades técnicas.  
+- 💻 Interesado en áreas como **Inteligencia Artificial**, **Desarrollo Backend** y **Ciberseguridad**.  
+- 🎯 Mi objetivo es crecer como **Ingeniero de Sistemas especializado en desarrollo de software** y contribuir a proyectos **open source** que generen impacto real.  
+- 📫 Puedes contactarme en **nvargas20027@gmail.com**.  
+- ⚡ Dato curioso: Me apasionan la **música**, la **tecnología** y aprender cosas nuevas cada día. 🚀  
+  
 
 <br>
 
@@ -48,7 +49,7 @@
 <br>
 
 <h3>📊 Estadísticas de GitHub:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NautVargas&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="top languages" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NautVargas&show_icons=true&theme=tokyonight&locale=es" alt="github stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NautVargas&theme=tokyonight" alt="streak stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="top languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vargasnaut&show_icons=true&theme=tokyonight&locale=es" alt="github stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="streak stats" /></p>
 
