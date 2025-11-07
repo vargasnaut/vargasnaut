@@ -12,8 +12,8 @@
 - 💻 Interesado en áreas como **Inteligencia Artificial**, **Desarrollo Backend** y **Ciberseguridad**.  
 - 🎯 Mi objetivo es crecer como **Ingeniero de Sistemas especializado en desarrollo de software** y contribuir a proyectos **open source** que generen impacto real.  
 - 📫 Puedes contactarme en **nvargas20027@gmail.com**.  
-- ⚡ Dato curioso: Me apasionan la **música**, la **tecnología** y aprender cosas nuevas cada día. 🚀  
-  <br>
+- ⚡ Dato curioso: Me apasionan la **música**, la **tecnología** y aprender cosas nuevas cada día. 🚀
+  
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nautvargas/" target="blank">
@@ -27,7 +27,6 @@
   </a>
 </p>
 
-<br>
 <h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
 <p align="left">
 
@@ -58,6 +57,6 @@
 
 <h3>📊 Estadísticas de GitHub:</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="Racha de contribuciones" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="Racha de contribuciones" height="130" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="200" />
 </div>
