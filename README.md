@@ -5,7 +5,6 @@
   <h3>👀 Profile Views:</h3> 
   <img src="https://komarev.com/ghpvc/?username=NautVargas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
 </p>
-<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="300"/></p>
 
@@ -56,10 +55,9 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vmware.svg" alt="VMware" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anydesk.svg" alt="AnyDesk" width="40" height="40"/>
 </p>
-<br>
 
 <h3>📊 Estadísticas de GitHub:</h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="Racha de contribuciones" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="200" />
 </div>
