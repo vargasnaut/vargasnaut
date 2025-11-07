@@ -1,54 +1,54 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Naut Vargas</h1>
+<h3 align="center">🎓 Estudiante de Ingeniería de Sistemas | Apasionado por la tecnología y el desarrollo de software</h3>
 
-# ¡Hola 👋, Soy Vargas Naut!
+<br>
 
-### Un estudiante de **Ingeniería de Sistemas** del **Callao, Perú 🇵🇪**
-
-</div>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vargasnaut&label=Visitas&color=0e75b6&style=flat-square" alt="Contador de visitas de GitHub" /> 
+<p align="right"> 
+  <h3>👀 Profile Views:</h3> 
+  <img src="https://komarev.com/ghpvc/?username=NautVargas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
 </p>
 
----
+<br>
 
-## 💬 Conéctate conmigo:
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="250"/></p>
 
+- 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **Bases de Datos** para fortalecer mis habilidades técnicas.  
+- 💻 Interesado en áreas como **Inteligencia Artificial**, **Desarrollo Backend** y **Ciberseguridad**.  
+- 🎯 Mi objetivo es crecer como **Ingeniero de Sistemas especializado en desarrollo de software** y contribuir a proyectos **open source** que generen impacto real.  
+- 📫 Puedes contactarme en **nvargas20027@gmail.com**.  
+- ⚡ Dato curioso: Me apasionan la **música**, la **tecnología** y aprender cosas nuevas cada día. 🚀  
+  
+
+<br>
+
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vargasnaut" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Vargas Naut" height="30" width="40" /></a>
-<a href="https://x.com/vargasnaut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter Vargas Naut" height="30" width="40" /></a>
-<a href="https://vargasnaut.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg" alt="Portafolio Vargas Naut" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nautvargas/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/naut_vargas/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:nvargas20027@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
+  </a>
 </p>
 
----
+<br>
 
-## 💡 Sobre mí y lo que hago:
+<h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</p>
 
-* 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **Bases de Datos**.  
-* 👯 Busco colaborar en proyectos relacionados con **Backend, Inteligencia Artificial o Seguridad Informática**.  
-* 💬 Pregúntame sobre **Git, Python, SQL o desarrollo de interfaces con Tkinter**.  
-* 📫 Contáctame en **nvargas20027@gmail.com**.  
-* ⚡ Dato curioso: Me encanta la música 🎵 y la tecnología 💻.  
+<br>
 
----
-
-## 🛠️ Tecnologías y Herramientas
-
-<div align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-</div>
-
----
-
-<div align="center">
-    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vargasnaut&show_icons=true&theme=dark" alt="Estadísticas de GitHub de vargasnaut" /></p>
-
-</div>
+<h3>📊 Estadísticas de GitHub:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="top languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vargasnaut&show_icons=true&theme=tokyonight&locale=es" alt="github stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="streak stats" /></p>
