@@ -3,16 +3,6 @@
   <h3>🎓 Systems Engineering Student | Passionate about Technology & Software Development</h3>
 </div>
 
----
-
-
-
-<p align="right">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="350"/>
-</p>
-
----
-
 ### 💡 About Me
 
 I’m a **Systems Engineering student** and a **tech enthusiast** focused on software development.  
