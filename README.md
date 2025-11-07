@@ -10,7 +10,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="250"/></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="300"/></p>
 
 - 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **Bases de Datos** para fortalecer mis habilidades técnicas.  
 - 💻 Interesado en áreas como **Inteligencia Artificial**, **Desarrollo Backend** y **Ciberseguridad**.  
@@ -18,7 +18,6 @@
 - 📫 Puedes contactarme en **nvargas20027@gmail.com**.  
 - ⚡ Dato curioso: Me apasionan la **música**, la **tecnología** y aprender cosas nuevas cada día. 🚀  
   
-
 <br>
 
 <h3 align="left">Conecta conmigo:</h3>
@@ -35,10 +34,7 @@
 </p>
 
 <br>
-
 <h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
-<h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
-
 <p align="left">
 
   <!-- 💻 Lenguajes -->
@@ -65,11 +61,16 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vmware.svg" alt="VMware" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anydesk.svg" alt="AnyDesk" width="40" height="40"/>
 </p>
-
-
 <br>
 
 <h3>📊 Estadísticas de GitHub:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="top languages" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vargasnaut&show_icons=true&theme=tokyonight&locale=es" alt="github stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="streak stats" /></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vargasnaut&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="Racha de contribuciones" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="150" />
+</div>
+
