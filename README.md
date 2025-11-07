@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Naut Vargas</h1>
+<h2 align="center">Hi 👋, I'm Naut Vargas</h2>
 <h3 align="center">🎓 Estudiante de Ingeniería de Sistemas | Apasionado por la tecnología y el desarrollo de software</h3>
-<br>
+
 <p align="right"> 
   <h3>👀 Profile Views:</h3> 
-  <img src="https://komarev.com/ghpvc/?username=NautVargas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
+  <img src="https://komarev.com/ghpvc/?username=vargasnaut&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
 </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="300"/></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="350"/></p>
 
 - 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **Bases de Datos** para fortalecer mis habilidades técnicas.  
 - 💻 Interesado en áreas como **Inteligencia Artificial**, **Desarrollo Backend** y **Ciberseguridad**.  
