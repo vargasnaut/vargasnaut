@@ -5,9 +5,7 @@
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=vargasnaut&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views counter"/>
-</p>
+
 
 <p align="right">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="350"/>
