@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naut Vargas</h1>
 <h3 align="center">🎓 Estudiante de Ingeniería de Sistemas | Apasionado por la tecnología y el desarrollo de software</h3>
-
 <br>
-
 <p align="right"> 
   <h3>👀 Profile Views:</h3> 
   <img src="https://komarev.com/ghpvc/?username=NautVargas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
 </p>
-
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="300"/></p>
@@ -17,9 +14,7 @@
 - 🎯 Mi objetivo es crecer como **Ingeniero de Sistemas especializado en desarrollo de software** y contribuir a proyectos **open source** que generen impacto real.  
 - 📫 Puedes contactarme en **nvargas20027@gmail.com**.  
 - ⚡ Dato curioso: Me apasionan la **música**, la **tecnología** y aprender cosas nuevas cada día. 🚀  
-  
-<br>
-
+  <br>
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nautvargas/" target="blank">
@@ -64,13 +59,7 @@
 <br>
 
 <h3>📊 Estadísticas de GitHub:</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vargasnaut&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="Racha de contribuciones" height="150" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="150" />
 </div>
-
