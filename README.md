@@ -8,8 +8,8 @@
 I’m a **Systems Engineering student** and a **tech enthusiast** focused on software development.  
 Currently, I’m strengthening my skills in **Web Development**, **Python**, and **Databases** to grow as a future **Software Engineer** and contribute to **open-source projects** that make a real impact.  
 
-- 🌱 Learning: **Web Development**, **Python**, and **Databases**  
-- 💻 Interested in: **Artificial Intelligence**, **Backend Development**, and **Cybersecurity**  
+- 🌱 Learning: **Web Development**, **Python**, **Automation with n8n**, and **Databases**  
+- 💻 Interested in: **Artificial Intelligence**, **Backend Development**, **Cybersecurity**, and **Process Automation**  
 - ⚡ Fun fact: I love **music**, **technology**, and learning something new every day  
 - 📫 Reach me at: **nvargas20027@gmail.com**
 
@@ -34,12 +34,18 @@ Currently, I’m strengthening my skills in **Web Development**, **Python**, and
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-#### ⚙️ Frameworks & Databases
+#### ⚙️ Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/CodeIgniter-EE482D?style=for-the-badge&logo=codeigniter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/n8n.io-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+#### 🗄️ Databases
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
@@ -66,3 +72,4 @@ Currently, I’m strengthening my skills in **Web Development**, **Python**, and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="GitHub streak stats" height="130" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" height="200" />
 </div>
+
