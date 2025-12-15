@@ -6,7 +6,7 @@
 ### 💡 About Me
 
 I’m a **Systems Engineering student** and a **tech enthusiast** focused on software development.  
-Currently, I’m strengthening my skills in **Web Development**, **Python**, and **Databases** to grow as a future **Software Engineer** and contribute to **open-source projects** that make a real impact.  
+Currently, I’m strengthening my skills in **Web Development**, **Python**, and **Databases** to grow as a future **Systems Engineer** and contribute to **open-source projects** that make a real impact.  
 
 - 🌱 Learning: **Web Development**, **Python**, **Automation with n8n**, and **Databases**  
 - 💻 Interested in: **Artificial Intelligence**, **Backend Development**, **Cybersecurity**, and **Process Automation**  
