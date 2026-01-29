@@ -11,7 +11,7 @@ Currently, I’m strengthening my skills in **Web Development**, **Python**, and
 - 🌱 Learning: **Web Development**, **Python**, **Automation with n8n**, and **Databases**  
 - 💻 Interested in: **Artificial Intelligence**, **Backend Development**, **Cybersecurity**, and **Process Automation**  
 - ⚡ Fun fact: I love **music**, **technology**, and learning something new every day  
-- 📫 Reach me at: **nvargas20027@gmail.com**
+- 📫 Reach me at: **nautvargas@outlook.com**
 
 ---
 
@@ -20,7 +20,7 @@ Currently, I’m strengthening my skills in **Web Development**, **Python**, and
   <a href="https://www.linkedin.com/in/nautvargas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:nvargas20027@gmail.com" target="_blank">
+  <a href="mailto:nautvargas@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
