@@ -8,7 +8,7 @@
 I’m a **Systems Engineering student** and a **tech enthusiast** focused on software development.  
 Currently, I’m strengthening my skills in **Web Development**, **Python**, and **Databases** to grow as a future **Systems Engineer** and contribute to **open-source projects** that make a real impact.  
 
-- 🌱 Learning: **Web Development**, **Python**, **Automation with n8n**, and **Databases**  
+- 🌱 Learning: **Web Development**, **Python**, **Automation with n8n** and **Python**, and **Databases**  
 - 💻 Interested in: **Artificial Intelligence**, **Backend Development**, **Cybersecurity**, and **Process Automation**  
 - ⚡ Fun fact: I love **music**, **technology**, and learning something new every day  
 - 📫 Reach me at: **nautvargas@outlook.com**
@@ -64,12 +64,3 @@ Currently, I’m strengthening my skills in **Web Development**, **Python**, and
   <img src="https://img.shields.io/badge/VMware-607080?style=for-the-badge&logo=vmware&logoColor=white"/>
   <img src="https://img.shields.io/badge/AnyDesk-FD3F3F?style=for-the-badge&logo=anydesk&logoColor=white"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargasnaut&theme=tokyonight" alt="GitHub streak stats" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasnaut&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" height="200" />
-</div>
-
